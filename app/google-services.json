@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010961595802",
+    "project_id": "code4covid-404notfound-1a83d",
+    "storage_bucket": "code4covid-404notfound-1a83d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010961595802:android:a17e3c093487f9e1d9ce23",
+        "android_client_info": {
+          "package_name": "com.example.code4covid_404notfound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010961595802-42ao9t39okem0ven4jns5c9ve185cbeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuu3WlQSIoTDHN4CLTbYWh1LnucOgXTbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010961595802-42ao9t39okem0ven4jns5c9ve185cbeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

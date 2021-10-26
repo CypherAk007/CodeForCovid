@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\vaccine_view.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\vaccine_view.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tip_layout.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\tip_layout.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_verify.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_verify.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_oxygen.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_oxygen.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_caretakers.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_caretakers.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_fourm.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_fourm.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_blank.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_vaccine.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_vaccine.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_edit_front_line.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_edit_front_line.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_items.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\layout_items.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_quize.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_quize.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_container.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_container.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\score_bottom_sheet.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\score_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_doctors.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_doctors.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_add_front_line.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_add_front_line.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\items.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\items.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_input_data.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\activity_input_data.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_volunteer.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_volunteer.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_news.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_register.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_frontline.xml",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_frontline.xml"
+    }
+]

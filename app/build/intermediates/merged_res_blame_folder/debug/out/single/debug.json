@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cut_card.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\cut_card.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\font_bold.otf.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\font\\bold.otf"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myshape.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\myshape.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_baseline_youtube_searched_for_24.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_baseline_youtube_searched_for_24.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_charity.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\charity.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_baseline_accessibility_24.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_baseline_accessibility_24.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_oxygen.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_oxygen.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rectangle.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable\\shape_rectangle.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_doctor.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\doctor.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_front_line.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_add_front_line.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\font_medium.otf.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\font\\medium.otf"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_bold.ttf.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\font\\roboto_bold.ttf"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_comment.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\comment.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_doctors.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_doctors.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_food1.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\food1.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_quiz.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\quiz.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_women.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\women.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_register.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_small.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\small.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myshape1.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\myshape1.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\gradient.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_discussion.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\discussion.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_virus.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\virus.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_blank.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_covid_quote.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\covid_quote.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rate.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\rate.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_items.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\layout_items.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_input_data.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\activity_input_data.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_doctor2.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\doctor2.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_split.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\split.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vaccine.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\vaccine.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_quize.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_quize.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_edit_front_line.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_edit_front_line.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lady.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\lady.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_like.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\like.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_black.ttf.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\font\\roboto_black.ttf"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_verify.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_verify.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_vaccine.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_vaccine.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_myshape3.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\myshape3.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_frontline.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_frontline.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_regular.ttf.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_news.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\font_g_bold.otf.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\font\\g_bold.otf"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_close.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_share2.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\share2.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_baseline_medical_services_24.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_baseline_medical_services_24.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_container.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_container.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_medicine.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\medicine.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_heart.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\heart.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_close.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_close.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rating.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\rating.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_share.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\share.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_covid_logo.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\covid_logo.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_fourm.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_fourm.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_score_bottom_sheet.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\score_bottom_sheet.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\font_g_light.otf.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\font\\g_light.otf"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_black_background.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\black_background.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_news.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\news.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_volunteer.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_volunteer.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_bolditalic.ttf.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\font\\roboto_bolditalic.ttf"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_plus.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\plus.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_inoculate.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\inoculate.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_vaccine_view.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\vaccine_view.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_product.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\product.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_baseline_add_24.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_tip_layout.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\tip_layout.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_stay.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\drawable-v24\\stay.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_items.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\items.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\font_regular.ttf.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\font\\regular.ttf"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_caretakers.xml.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\src\\main\\res\\layout\\fragment_caretakers.xml"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "D:\\Android_Studio\\IEEE_Bangalore\\IEEE_Hackathon-master\\IEEE_Hackathon-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_close.png"
+    }
+]
