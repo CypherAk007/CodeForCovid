@@ -1,5 +1,5 @@
 
-# IEEE_Hackathon
+# CodeForCovid
 ## Problem Title
 FrontLine Health workers And Mental Health Analysis with
 Vaccine Tracker.
@@ -16,7 +16,7 @@ to Covid-19 pandemic.
 - Mental Health Analysis
 
 ## Abstract 
-https://drive.google.com/file/d/1oolCkloJsPJsQ1VWLhFUd3R2t-rmroJh/view?usp=sharing
+
 
 ## Technology Stack:
 - UI/UX : Figma
